@@ -1,2 +1,2 @@
 # Web development
-Projects using basic html,css,js
+Simple Projects using basic html,css,js
